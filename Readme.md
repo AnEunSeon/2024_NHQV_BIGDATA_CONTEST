@@ -22,6 +22,8 @@
 ### 4. 결론
 
 - 수익성, 안정성, 거래량에 따라 고객군이 선호하는 투자 종목의 차이가 존재함을 확인
+![Image](https://github.com/user-attachments/assets/526b8591-0069-4a1d-96b0-77f60f6039c8)
+![Image](https://github.com/user-attachments/assets/e928abf9-b8d8-43ae-a1b5-0b735c64d28d)
 
 ### 5. 미국 ETF 큐레이션 서비스 구현
 
